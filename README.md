@@ -265,3 +265,5 @@ Also, make sure to check out [RunJS](https://runjs.app). RunJS is a JavaScript p
 ## License
 
 [MIT License](https://github.com/lukehaas/Scrollify/blob/master/LICENSE)
+
+Browser testing via [![lambda test](https://www.lambdatest.com/support/img/logo.svg)](https://www.lambdatest.com/)
