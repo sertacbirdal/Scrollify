@@ -1,3 +1,4 @@
+
 # [jQuery Scrollify](https://projects.lukehaas.me/scrollify)
 
 A jQuery plugin that assists scrolling and snaps to sections. Touch optimised.
